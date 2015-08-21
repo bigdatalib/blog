@@ -28,9 +28,10 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
+  About Me: "about"
   Contact: "contact"
   Projects: "projects"
+  Courses: "courses"
   
 # --- Footer options --- #
 
