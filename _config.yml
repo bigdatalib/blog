@@ -42,20 +42,20 @@ author:
   name: Nima Safaian
   email: "nima.safaian@gmail.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "users/3943160/daattali"
+  github: bigdatalib    # eg. daattali
+  twitter: nimers   # eg. daattali
+  linkedin: https://ca.linkedin.com/in/nimasafaian  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: http://stackoverflow.com/users/3258360/nimers  # eg. "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   github: true
-  linkedin: false
-  stackoverflow: false
+  linkedin: true
+  stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
