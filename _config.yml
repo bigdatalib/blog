@@ -29,10 +29,10 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "about"
-  Contact: "contact"
   Projects: "projects"
   Courses: "courses"
   Resume: "resume"
+  Contact: "contact"
   
 # --- Footer options --- #
 
