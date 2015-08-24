@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Learn more about the site and me.... 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### About Site
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This site documents my journey and learnings in the area of **Big Data** and **Machine Learning** in the area of risk management and decision making. My posts will focus on energy and commodities trading, investment decisions and risk management. 
 
-What else do you need?
+### About Me
 
-### my history
+- **Work** I am a Risk Manager with Scotiabank’s Energy and Agricultural Commodities Group in Calgary, Canada. Find more about Scotiabank [www.scotiabank.com]  
+- **Data Science** I use Data Science and Statistical Learning methodologies to get better insights on risk/reward in commodities trading risk management.  
+- **GARP** I am also an active member of GARP Calgary where he leads seminar/workshop series on the practical applications of Big Data and Machine Learning to trading and risk analytics.
+- **R** I am also running Calgary R Meetup Group 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
