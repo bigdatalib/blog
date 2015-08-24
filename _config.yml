@@ -46,7 +46,7 @@ author:
   stackoverflow: users/3258360/nimers  # eg. "users/3943160/daattali"
 #
 collections:
-  projects:
+  posts:
     output: true
 
  
