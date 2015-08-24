@@ -10,7 +10,7 @@ This site documents my journey and learnings in the area of **Big Data** and **M
 
 ### About Me
 
-- **Work** I am a Risk Manager with Scotiabank’s Energy and Agricultural Commodities Group in Calgary, Canada. Find more about Scotiabank [www.scotiabank.com]  
+- **Work** I am a Risk Manager with Scotiabank’s Energy and Agricultural Commodities Group in Calgary, Canada. Find more about Scotiabank [link](www.scotiabank.com)  
 - **Data Science** I use Data Science and Statistical Learning methodologies to get better insights on risk/reward in commodities trading risk management.  
 - **GARP** I am also an active member of GARP Calgary where he leads seminar/workshop series on the practical applications of Big Data and Machine Learning to trading and risk analytics.
 - **R** I am also running Calgary R Meetup Group 
