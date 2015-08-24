@@ -113,3 +113,8 @@ prose:
     - /img
     - /js
     
+# Build settings
+timezone: America/Houston
+markdown: redcarpet
+redcarpet:
+    extensions: [with_toc_data]  # to add id to headers
