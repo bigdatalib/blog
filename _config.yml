@@ -9,7 +9,7 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "http://bigdatalib.github.io/sqs/"
-baseurl: "/sqs"
+baseurl: "http://bigdatalib.github.io/sqs"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
