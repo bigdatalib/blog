@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Beautiful Jekyll
 subtitle: Build a beautiful and simple website in minutes
 ---
@@ -17,6 +18,50 @@ subtitle: Build a beautiful and simple website in minutes
   in just a few minutes by only changing some configuration values and adding this piece of text that you're reading.</p>
   <p>Below are sample blog posts for illustration purposes.</p>
 </div>
+=======
+title: bigdatalib.io
+subtitle: Exploring Risk Management and Decision Making through Data Science 
+---
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+ 
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="/img/avatar-icon.png" alt="...">
+      <div class="carousel-caption">
+          <h3>Caption Text</h3>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://placehold.it/1200x315" alt="...">
+      <div class="carousel-caption">
+          <h3>Caption Text</h3>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://placehold.it/1200x315" alt="...">
+      <div class="carousel-caption">
+          <h3>Caption Text</h3>
+      </div>
+    </div>
+  </div>
+ 
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div> <!-- Carousel -->
+>>>>>>> master
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -37,7 +82,7 @@ subtitle: Build a beautiful and simple website in minutes
   
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Read More</a>
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
   
    </article>
