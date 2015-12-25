@@ -4,29 +4,21 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-<<<<<<< HEAD
 #url: "http://username.github.io"
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://bigdatalib.github.io/sqs/"
-=======
 # url: "http://bigdatalib.github.io"
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 url: "http://bigdatalib.github.io"
->>>>>>> master
 baseurl: "/sqs"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-<<<<<<< HEAD
-title: Beautiful Jekyll
-=======
 title: bigdatalib.io
->>>>>>> master
 
 # Short description of your site
 description: Quickly build a beautiful Jekyll website
@@ -40,28 +32,15 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-<<<<<<< HEAD
-  Getting started: "getstarted"
-=======
   About: "about"
   Resume: "resume"
   Contact: "contact"
->>>>>>> master
   
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-<<<<<<< HEAD
-  name: Dean Attali
-  email: "daattali@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
-=======
   name: Nima Safaian
   email: "nima.safaian@gmail.com"
   facebook: yourname  # eg. daattali
@@ -74,7 +53,6 @@ collections:
   posts:
     output: true
 
->>>>>>> master
  
 # Select which links to show in the footer
 footer-links-active:
@@ -88,11 +66,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-<<<<<<< HEAD
-url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
-=======
 url-pretty: "bigdatalib.io"  # eg. "deanattali.com/beautiful-jekyll"
->>>>>>> master
 
 # --- Misc --- #
 
@@ -100,7 +74,7 @@ url-pretty: "bigdatalib.io"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-59820529-1"
+google_analytics: ""
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
