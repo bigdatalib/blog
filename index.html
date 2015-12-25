@@ -1,5 +1,24 @@
 ---
 layout: page
+<<<<<<< HEAD
+title: Beautiful Jekyll
+subtitle: Build a beautiful and simple website in minutes
+---
+
+<div class="main-explain-area jumbotron">
+  <p>This website is powered by GitHub Pages/Jekyll and can be built in under 5 minutes. Literally.</p>
+  <p>Head over to <a href="https://github.com/daattali/beautiful-jekyll#readme">my GitHub project for this template</a>
+  to get started.</p>
+  <div class="get-started-wrap">
+    <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
+  </div>
+  <p>This template was designed to look great on both desktops and smaller (mobile) devices.</p>
+  <p><a href="https://github.com/daattali/beautiful-jekyll/tree/gh-pages">Here is the code</a> that generates this website.
+  Using the <a href="https://github.com/daattali/beautiful-jekyll#readme">Beautiful Jekyll template</a> it was created
+  in just a few minutes by only changing some configuration values and adding this piece of text that you're reading.</p>
+  <p>Below are sample blog posts for illustration purposes.</p>
+</div>
+=======
 title: bigdatalib.io
 subtitle: Exploring Risk Management and Decision Making through Data Science 
 ---
@@ -42,6 +61,7 @@ subtitle: Exploring Risk Management and Decision Making through Data Science
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div> <!-- Carousel -->
+>>>>>>> master
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -83,3 +103,21 @@ subtitle: Exploring Risk Management and Decision Making through Data Science
   {% endif %}
 </ul>
 {% endif %}
+
+
+<hr>
+
+<div class="blog-comments">
+  <div class="comments">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = 'deanattali-site';
+      (function() {
+      	var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      	dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</div>

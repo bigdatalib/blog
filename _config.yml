@@ -4,6 +4,10 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
+#url: "http://username.github.io"
+#baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
 # url: "http://bigdatalib.github.io"
 #baseurl: ""
 
@@ -17,7 +21,7 @@ baseurl: "/sqs"
 title: bigdatalib.io
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Quickly build a beautiful Jekyll website
 
 # --- Navigation bar options --- #
 
@@ -70,7 +74,7 @@ url-pretty: "bigdatalib.io"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: ""
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 

@@ -1,5 +1,8 @@
-# Beautiful Jekyll
+# Beautiful Jekyll source code
 
+<<<<<<< HEAD
+This is the source code of Beautiful Jekyll that is responsible for generating [the demo website for this theme](http://deanattali.com/beautiful-jekyll).  To learn how to build a similarly awesome looking website in minutes, go to the [main Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
+=======
 **Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly.  [Check out a demo](http://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes or look at [my personal website](http://deanattali.com) to see it in use.
 
 This template is built on top of [Jekyll](http://jekyllrb.com/) and can be used for any [GitHub Pages](https://pages.github.com/) website.  If you don't know what Jekyll and GitHub Pages are, you can still use these instructions to build a site quickly, but it might make a little more sense if you read up on them just a little bit.
@@ -150,3 +153,4 @@ If you do fork this project to use as a template for your site, I would apprecia
 ### Known limitations
 
 - If you have a project page and you want a custom 404 page, you must have a custom domain.  See https://help.github.com/articles/custom-404-pages/.  This means that if you have a regular User Page you can use the 404 page from this theme, but if it's a website for a specific repository, the 404 page will not be used.
+>>>>>>> master
